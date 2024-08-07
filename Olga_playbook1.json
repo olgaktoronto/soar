@@ -99,7 +99,13 @@
                     "y": 520
                 }
             },
-            "notes": ""
+            "notes": "",
+            "origin": {
+                "playbook_id": 201,
+                "playbook_name": "Olga_playbook",
+                "playbook_repo_id": 2,
+                "playbook_repo_name": "local"
+            }
         },
         "input_spec": null,
         "output_spec": null,
@@ -108,7 +114,7 @@
         "schema": "5.0.11",
         "version": "6.2.1.305"
     },
-    "create_time": "2024-08-07T14:39:28.814764+00:00",
+    "create_time": "2024-08-07T14:40:00.705718+00:00",
     "draft_mode": false,
     "labels": [
         "events"
