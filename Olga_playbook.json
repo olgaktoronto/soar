@@ -21,7 +21,7 @@
                     "targetPort": "1_in"
                 }
             ],
-            "hash": "89bb261021b6b7efa17a6ebacb5429d512746930",
+            "hash": "4dadd4d53ebc85421058957e5d184230b4f3d9a7",
             "nodes": {
                 "0": {
                     "data": {
@@ -81,7 +81,7 @@
                             "pauseValue": 2
                         },
                         "parameters": {
-                            "ip": "artifact:*.cef.sourceAddress"
+                            "ip": "artifact:*.cef.sourceTranslatedAddress"
                         },
                         "requiredParameters": [
                             {
@@ -108,7 +108,7 @@
         "schema": "5.0.11",
         "version": "6.2.1.305"
     },
-    "create_time": "2024-08-07T13:47:30.286815+00:00",
+    "create_time": "2024-08-07T14:39:28.814764+00:00",
     "draft_mode": false,
     "labels": [
         "events"
